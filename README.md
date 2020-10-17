@@ -1,4 +1,4 @@
 # LowBandwithDoS
 DoS bandwith rendah dengan perl
-Disarankan menginstall Perl
+Disarankan memasang Perl
 
